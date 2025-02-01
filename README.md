@@ -21,21 +21,6 @@ Ensure you have:
 - Java installed (JDK 8 or later recommended)
 - An IDE or terminal for execution
 
-### Running the Program
-1. Compile the Java files:
-   ```sh
-   javac Main.java Function.java
-   ```
-2. Run the program:
-   ```sh
-   java Main
-   ```
-3. Enter the departure and destination station names when prompted.
-
-## File Structure
-- Main.java: Contains the main logic to process inputs, determine the route, and visualize the output.
-- Function.java: Provides a utility for plotting functions, including graphical representations.
-
 ## Logic Breakdown
 1. Input Handling:
    - Takes two station names as input.
